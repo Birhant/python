@@ -1,0 +1,60 @@
+Gurren laggan
+1	2	2	3	3	3	2	2	3	3
+Kimetsu no yaiba
+3	3	3	3	3	3	3	2	1	2
+Maou-sama retry!
+2	1	1	2	2	2	2	1	2	1
+Kurugehime
+3	3	3	2	2	3	2	3	1	2
+Arifureta
+3	1	2	1	2	1	2	2	1	2
+Assassination classroom
+3	2	3	3	2	2	3	3	2	3
+Assassin's pride
+2	1	2	3	1	2	2	1	1	1
+Attack on titans
+2	3	3	3	2	3	3	3	1	3
+clannad
+2	1	3	3	3	2	3	3	3	1
+Classroom of the elit
+2	3	1	3	2	3	2	1	1	1
+Daily life of high school boys
+3	3	3	2	3	2	2	3	3	2
+Dan machi
+3	2	3	3	2	3	2	2	3	2
+Danganronpa
+3	3	3	3	2	3	1	3	1	3
+Death march
+1	1	2	2	2	2	2	2	1	2
+Devil is partimer!
+3	2	3	3	2	2	1	1	2	1
+Dororo
+3	2	3	3	2	2	3	3	1	1
+Erased
+2	3	2	2	2	2	3	3	1	3
+Full metal Alchemist brotherhood 
+3	3	3	3	2	2	3	3	3	3
+HunterxHunter
+3	3	3	3	3	2	1	3	2	3
+Naruto
+3	3	3	2	2	2	2	3	3	2
+Youjo Senki
+3	2	3	3	2	3	2	2	1	3
+My Hero Academia
+2	2	3	3	2	2	2	2	2	2
+One punch man
+3	2	3	2	2	2	3	2	1	2
+Mob psycho 100
+3	3	3	3	2	3	2	1	1	1
+Skip Beat!
+3	2	3	2	2	2	3	3	2	2
+Akame ga kill
+3	2	3	2	2	3	3	3	2	2
+The pet girl of Sakurasou
+3	1	3	2	2	3	2	1	3	2
+Death parade
+3	3	2	2	2	2	1	2	1	3
+Overlord
+3	2	2	3	2	3	3	2	1	2
+something
+2	1	2	1	2	1	2	1	2	1

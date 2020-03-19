@@ -1,0 +1,5 @@
+spiralplanet	surface	postapoclypse
+Japan	Rural	Industrialist
+new world	country side	medival
+Japan	Tokyo	Modern
+isekai	dungeon	medieval

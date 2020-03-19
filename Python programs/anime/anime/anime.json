@@ -1,0 +1,156 @@
+{
+  "Anime": [
+    {
+      "Title": "Full metal Alchemist brotherhood ",
+      "Rating": 9.33,
+      "Genre": []
+    },
+    {
+      "Title": "Assassination classroom",
+      "Rating": 8.67,
+      "Genre": []
+    },
+    {
+      "Title": "Attack on titans",
+      "Rating": 8.67,
+      "Genre": []
+    },
+    {
+      "Title": "Daily life of high school boys",
+      "Rating": 8.67,
+      "Genre": []
+    },
+    {
+      "Title": "Kimetsu no yaiba",
+      "Rating": 8.67,
+      "Genre": []
+    },
+    {
+      "Title": "HunterxHunter",
+      "Rating": 8.67,
+      "Genre": []
+    },
+    {
+      "Title": "Dan machi",
+      "Rating": 8.33,
+      "Genre": []
+    },
+    {
+      "Title": "Danganronpa",
+      "Rating": 8.33,
+      "Genre": []
+    },
+    {
+      "Title": "Naruto",
+      "Rating": 8.33,
+      "Genre": []
+    },
+    {
+      "Title": "Akame ga kill",
+      "Rating": 8.33,
+      "Genre": []
+    },
+    {
+      "Title": "Kurugehime",
+      "Rating": 8.0,
+      "Genre": []
+    },
+    {
+      "Title": "clannad",
+      "Rating": 8.0,
+      "Genre": []
+    },
+    {
+      "Title": "Youjo Senki",
+      "Rating": 8.0,
+      "Genre": []
+    },
+    {
+      "Title": "Skip Beat!",
+      "Rating": 8.0,
+      "Genre": []
+    },
+    {
+      "Title": "Gurren laggan",
+      "Rating": 8.0,
+      "Genre": []
+    },
+    {
+      "Title": "Dororo",
+      "Rating": 7.67,
+      "Genre": []
+    },
+    {
+      "Title": "Erased",
+      "Rating": 7.67,
+      "Genre": []
+    },
+    {
+      "Title": "Overlord",
+      "Rating": 7.67,
+      "Genre": []
+    },
+    {
+      "Title": "My Hero Academia",
+      "Rating": 7.33,
+      "Genre": []
+    },
+    {
+      "Title": "One punch man",
+      "Rating": 7.33,
+      "Genre": []
+    },
+    {
+      "Title": "The pet girl of Sakurasou",
+      "Rating": 7.33,
+      "Genre": []
+    },
+    {
+      "Title": "Mob psycho 100",
+      "Rating": 7.33,
+      "Genre": []
+    },
+    {
+      "Title": "Death parade",
+      "Rating": 7.0,
+      "Genre": []
+    },
+    {
+      "Title": "Devil is partimer!",
+      "Rating": 6.67,
+      "Genre": []
+    },
+    {
+      "Title": "Classroom of the elit",
+      "Rating": 6.33,
+      "Genre": []
+    },
+    {
+      "Title": "Death march",
+      "Rating": 5.67,
+      "Genre": []
+    },
+    {
+      "Title": "Arifureta",
+      "Rating": 5.67,
+      "Genre": [
+        "Isekai"
+      ]
+    },
+    {
+      "Title": "Maou-sama retry!",
+      "Rating": 5.33,
+      "Genre": []
+    },
+    {
+      "Title": "Assassin's pride",
+      "Rating": 5.33,
+      "Genre": []
+    },
+    {
+      "Title": "ss",
+      "Rating": 3.0,
+      "Genre": []
+    }
+  ]
+}

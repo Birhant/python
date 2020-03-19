@@ -1,0 +1,6 @@
+Japan	Highschool	Modern
+England	Alchemy academy	Modern
+Japan	Rural	Industrialist
+new world	country side	medival
+Japan	Tokyo	Modern
+isekai	dungeon	medieval

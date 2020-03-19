@@ -1,0 +1,2 @@
+How to build desktop software?
+How to prevent functions from executing before proper trigger
